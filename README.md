@@ -1,8 +1,4 @@
-# Multilayer Networks - International Workshop
-
 ![image](https://cloud.jbrj.gov.br/s/y4TT8Z27r3CAKBK/preview) ![image](https://cloud.jbrj.gov.br/s/X72XceFtLtjWazd/preview)
-
-
 
 An advanced, working-focused workshop will be held at the Rio de Janeiro Botanical Garden aiming to advance the field of Multilayer Networks applied to Socio-Ecological Systems.
 
