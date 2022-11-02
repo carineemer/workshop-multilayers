@@ -24,7 +24,7 @@
 
 ## Vacines and Health Tips
 
-* [Recommendations from USA Centers for Disease Contros and Prevention - CDC](https://wwwnc.cdc.gov/travel/destinations/traveler/none/brazil)
+* [Recommendations from USA Centers for Disease Control and Prevention - CDC](https://wwwnc.cdc.gov/travel/destinations/traveler/none/brazil)
 
 ## Visa
 
