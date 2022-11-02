@@ -20,18 +20,8 @@ graph LR
         B --> B2[BG Tour]
     A --> C[26th]
         click C href "https://github.com/carineemer/workshop-multilayers/blob/main/26th.md"
-        C --> C1[Morning]
-            C1 --> C11[Section 1]
-            click C11 href "https://github.com/carineemer/workshop-multilayers/blob/main/26th.md#section-1"
-        C --> C2[afternoon]
     A --> D[27th]
         click D href "https://github.com/carineemer/workshop-multilayers/blob/main/27th.md"
-        D --> D1[Morning]
-        D --> D2[afternoon]
-            D2 --> D21[Happy Hour]
     A --> E[28th]
         click E href "https://github.com/carineemer/workshop-multilayers/blob/main/28th.md"
-        E --> E1[Morning]
-        E --> E2[afternoon] 
-            E2 --> E21[Closing]  
   ```
