@@ -16,7 +16,7 @@
 
 ## Power Plugs, Socketes and Voltage
 
-* In Brazil the power plugs and sockets are of type N.
+* In Brazil the power plugs and sockets are of [type N](https://en.wikipedia.org/wiki/AC_power_plugs_and_sockets#Brazilian_standard_NBR_14136_(Type_N)).
 
 ![image](https://www.power-plugs-sockets.com/wp-content/plugins/power-plugs-sockets/img/type_N.jpg)
 
