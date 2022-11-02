@@ -6,7 +6,7 @@ A small team of top-leading scientists from all over the world will soon be invi
 
 __Date__: 25 - 28 April 2023.
 
-__Venue__: Auditorium of the National School of Tropical Botany - Rio de Janeiro Botanical Garden (in person).
+__Venue__: [Auditorium of the National School of Tropical Botany - Rio de Janeiro Botanical Garden](https://goo.gl/maps/1fKVPoujeVyQxCr77) (in person).
 
 __Sponsor__: Carlos Chagas Filho Foundation for Supporting Research in the State of Rio de Janeiro - FAPERJ.
 
