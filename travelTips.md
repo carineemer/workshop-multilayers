@@ -16,7 +16,9 @@
 
 ## Power Plugs, Socketes and Voltage
 
-In Brazil the power plugs and sockets are of type N.
+* In Brazil the power plugs and sockets are of type N.
 
-"[image](https://www.power-plugs-sockets.com/wp-content/plugins/power-plugs-sockets/img/type_N.jpg)
+![image](https://www.power-plugs-sockets.com/wp-content/plugins/power-plugs-sockets/img/type_N.jpg)
+
+* The standard voltage is 127 V (in Rio de Janeiro) and the standard frequency is 60 Hz.
 
