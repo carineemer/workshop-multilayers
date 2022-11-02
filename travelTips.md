@@ -22,3 +22,10 @@
 
 * The standard voltage is 127 V (in Rio de Janeiro) and the standard frequency is 60 Hz.
 
+## Vacines and Health Tips
+
+* [Recommendations from USA Centers for Disease Contros and Prevention - CDC](https://wwwnc.cdc.gov/travel/destinations/traveler/none/brazil)
+
+## Visa
+
+* [Visa policy of Brazil](https://en.wikipedia.org/wiki/Visa_policy_of_Brazil)
