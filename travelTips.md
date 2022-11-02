@@ -29,3 +29,4 @@
 ## Visa
 
 * [Visa policy of Brazil](https://en.wikipedia.org/wiki/Visa_policy_of_Brazil)
+* [Official Site - Portuguese and English](https://www.gov.br/mre/pt-br/assuntos/portal-consular/vistos/informacoes-sobre-vistos-para-estrangeiros-viajarem-ao-brasil)
