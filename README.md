@@ -25,6 +25,7 @@ graph LR
     A --> D[27th]
         D --> D1[Morning]
         D --> D2[afternoon]
+            D2 --> D21[Happy Hour]
     A --> E[28th]
         E --> E1[Morning]
         E --> E2[afternoon] 
