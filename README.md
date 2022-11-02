@@ -1,4 +1,4 @@
-![image](https://cloud.jbrj.gov.br/s/y4TT8Z27r3CAKBK/preview) ![image](https://cloud.jbrj.gov.br/s/X72XceFtLtjWazd/preview)
+![image](https://cloud.jbrj.gov.br/apps/files_sharing/publicpreview/7xxMxJSAPx9LE4X?x=1320&y=369&a=true&file=multiNet2.png&scalingup=0)
 
 An advanced, working-focused workshop will be held at the Rio de Janeiro Botanical Garden aiming to advance the field of Multilayer Networks applied to Socio-Ecological Systems.
 
@@ -9,3 +9,7 @@ __Date__: 25 - 28 April 2023.
 __Venue__: Auditorium of the National School of Tropical Botany - Rio de Janeiro Botanical Garden (in person).
 
 __Sponsor__: Carlos Chagas Filho Foundation for Supporting Research in the State of Rio de Janeiro - FAPERJ.
+
+## Program
+
+
