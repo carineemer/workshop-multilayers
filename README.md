@@ -20,7 +20,7 @@ graph LR
     A --> C[26th]
         C --> C1[Morning]
             C1 --> C11[Section 1]
-            click C11 href "26s1.md"
+            click C11 href "https://github.com/carineemer/workshop-multilayers/blob/main/26s1.md"
         C --> C2[afternoon]
     A --> D[27th]
         D --> D1[Morning]
