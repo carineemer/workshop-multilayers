@@ -12,4 +12,20 @@ __Sponsor__: Carlos Chagas Filho Foundation for Supporting Research in the State
 
 ## Program
 
-
+```mermaid
+graph LR
+    A(Workshop) --> B[25th]
+        B --> B1[Arriving]
+        B --> B2[BG Tour]
+    A --> C[26th]
+        C --> C1[Morning]
+            C1 --> C11[Section 1]
+        C --> C2[afternoon]
+    A --> D[27th]
+        D --> D1[Morning]
+        D --> D2[afternoon]
+    A --> E[28th]
+        E --> E1[Morning]
+        E --> E2[afternoon] 
+            E2 --> E21[Closing]  
+  ```
