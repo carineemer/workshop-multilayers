@@ -10,6 +10,8 @@ __Venue__: [Auditorium of the National School of Tropical Botany - Rio de Janeir
 
 __Sponsor__: Carlos Chagas Filho Foundation for Supporting Research in the State of Rio de Janeiro - FAPERJ.
 
+* [Travel Tips](https://github.com/carineemer/workshop-multilayers/blob/main/travelTips.md)
+
 ## Program
 __(click at the boxes)__
 
