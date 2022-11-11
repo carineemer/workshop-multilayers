@@ -31,3 +31,9 @@
 * [Visa policy of Brazil](https://en.wikipedia.org/wiki/Visa_policy_of_Brazil)
 * [Official Site - Portuguese and English](https://www.gov.br/mre/pt-br/assuntos/portal-consular/vistos/informacoes-sobre-vistos-para-estrangeiros-viajarem-ao-brasil)
 * If you need a formal invitation letter, please ask the Coordinator of the Workshop
+
+## Taking a TAXI at the Airport
+
+Right after leaving the customs clearance area, but before leaving the terminal, there are stands of official taxi companies that you can prepay, with credit card, avoiding fare surprises.
+
+Please don't follow or accept taxi drivers offering rides at the lobby. They are not legal or official (or safe!), and the fares will be overrated.
