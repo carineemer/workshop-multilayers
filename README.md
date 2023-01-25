@@ -19,7 +19,7 @@ graph LR
         B --> B1[Arriving]
         B --> B2[BG Tour]
     A --> C[26th]
-        click C href "https://github.com/carineemer/workshop-multilayers/blob/main/26th.md"
+        click C "https://github.com/carineemer/workshop-multilayers/blob/main/26th.md"
     A --> D[27th]
         click D href "https://github.com/carineemer/workshop-multilayers/blob/main/27th.md"
     A --> E[28th]
