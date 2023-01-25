@@ -9,3 +9,4 @@ A small team of top-leading scientists from all over the world will soon be invi
 * __Sponsor__: Carlos Chagas Filho Foundation for Supporting Research in the State of Rio de Janeiro - FAPERJ.
 * [__Travel Tips__](https://github.com/carineemer/workshop-multilayers/blob/main/travelTips.md)
 * [__Preliminary Program__](https://github.com/carineemer/workshop-multilayers/blob/main/program.md)
+* [__Participants__](https://github.com/carineemer/workshop-multilayers/blob/main/participants.md)
