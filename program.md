@@ -20,7 +20,7 @@ Arriving day!
 | 12:00hs - 13:30hs | Lunch |
 | 13:30hs - 15:00hs | Roundtable 1 | __Multilayer networks and the study os species interactions__<br>Coordination: Dr. Sérgio Timóteo<br>Speakers: Dra. Anna Traveset, Prof. Jane Memmott, Dra. Sonia Kéfi  |
 | 15:00hs - 15:30hs | Coffee Break  |  |
-| 15:30hs - 17:00hs | Working Group 1 | Meetings and activities of the participants responsible for the preparation and writing of the manuscript on the state of the art and perspectives on multilayer networks, to be submitted to the _Ecology_ |
+| 15:30hs - 17:00hs | Working Group 1 | Meetings and activities of the participants responsible for the preparation and writing of the manuscript on the state of the art and perspectives on multilayer networks, to be submitted to _Ecology_ |
 
 ---
 
@@ -36,7 +36,7 @@ Arriving day!
 | 12:00hs - 13:30hs | Lunch |
 | 13:30hs - 15:00hs | Roundtable 2 | __Multilayer networks in socio-ecological systems__<br>Coordination: Dra. Carine Emer<br>Speakers: Dra. Cecília Andreazzi, Dr. Maurício Cantor, Dr. Örjan Bodin, Dra. Rika Preiser |
 | 15:00hs - 15:30hs | Coffee Break  |  |
-| 15:30hs - 17:00hs | Working Group 2 | Meetings and activities of the participants responsible for the elaboration, development and implementation of the package for analysis and visualization of multilayer networks as well as the manuscript to be submitted to the _Methods in Ecology and Evolution_ |
+| 15:30hs - 17:00hs | Working Group 2 | Meetings and activities of the participants responsible for the elaboration, development and implementation of the package for analysis and visualization of multilayer networks as well as the manuscript to be submitted to _Methods in Ecology and Evolution_ |
 
 ---
 
