@@ -1,4 +1,4 @@
-# Participants
+# Participants (to be confirmed)
 
 | Participant | Institution | Country |
 | --- | --- | :---: |
