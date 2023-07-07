@@ -24,23 +24,23 @@ Arriving day!
 
 ---
 
-## __April 27th__
+## _ October 26th__
 
-### Applications
+### Methods
 
 | Time | Event | Details |
 |---|---|---|
-| 8:00hs - 10:00hs | Symposium 3 | __Applicability: where, how and why to use multilayers in Ecology and Conservation__<br>Dra. Anna Traveset, Dr. Sérgio Timóteo, Prof. Jane Memmott |
+| 8:00hs - 10:00hs | Symposium 3 | __Multilayer Networks__<br>Coordination: Dr. Sérgio Timóteo |
 | 10:00hs - 10:30hs | Coffee Break |  |
-| 10:30hs - 12:00hs | Symposium 4  | __Tools: algorithms, scripts, programming language, software and packages available__<br>Dr. Francisco A Rodrigues, Dr. Tiago Pereira, Dr. Carsten Dormann |
+| 10:30hs - 12:00hs | Symposium 4  | __Tools: algorithms, scripts, programming language, software and packages available__<br>Coordination: Dr. Fabio Porto |
 | 12:00hs - 13:30hs | Lunch |
-| 13:30hs - 15:00hs | Roundtable 2 | __Multilayer networks in socio-ecological systems__<br>Coordination: Dra. Carine Emer<br>Speakers: Dra. Cecília Andreazzi, Dr. Maurício Cantor, Dr. Örjan Bodin, Dra. Rika Preiser |
+| 13:30hs - 15:00hs | Roundtable 2 | __Graph theory in socio-ecological systems__<br>Coordination: Dr. Tadeu Gomes |
 | 15:00hs - 15:30hs | Coffee Break  |  |
-| 15:30hs - 17:00hs | Working Group 2 | Meetings and activities of the participants responsible for the elaboration, development and implementation of the package for analysis and visualization of multilayer networks as well as the manuscript to be submitted to _Methods in Ecology and Evolution_ |
+| 15:30hs - 17:00hs | Working Groups | 
 
 ---
 
-## __April 28th__
+## __October 27th__
 
 ### Synthesis
 
@@ -48,9 +48,9 @@ Arriving day!
 |---|---|---|
 | 8:00hs - 10:00hs | Working Group 1/2 |  |
 | 10:00hs - 10:30hs | Coffee Break |  |
-| 10:30hs - 12:00hs | Roundtable 3  | __International cooperation in network science__<br>Coordination: Dr Luciano Costa<br> Speakers: Dr Manlio de Domenico, Dra. Ginestra Bianconi, Dr. Paulo Guimarães Jr |
+| 10:30hs - 12:00hs | Roundtable 3  | __International cooperation in network science applied to SES__<br>Coordination: Dr Carine Emer|
 | 12:00hs - 13:30hs | Lunch |
 | 13:30hs - 15:00hs | Working Group 1/2 |  |
 | 15:00hs - 15:30hs | Coffee Break  |  |
-| 15:30hs - 17:00hs | Next Steps |  |
+| 15:30hs - 17:00hs | Plenary Next Steps |  |
 | 17:00hs - 18:00hs | Closing |  |
