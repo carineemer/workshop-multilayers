@@ -1,4 +1,4 @@
-![image](https://cloud.jbrj.gov.br/apps/files_sharing/publicpreview/7xxMxJSAPx9LE4X?x=1320&y=369&a=true&file=multiNet2.png&scalingup=0)
+![image](https://cloud.jbrj.gov.br/s/yPNmQoH7ce2FTb3)
 
 An advanced, working-focused workshop will be held at the Rio de Janeiro Botanical Garden aiming to advance the field of Socio-Ecological Systems through the lens of network theory and computational techniques.
 
