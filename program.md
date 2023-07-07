@@ -34,7 +34,7 @@ Arriving day!
 | 10:00hs - 10:30hs | Coffee Break |  |
 | 10:30hs - 12:00hs | Symposium 4  | __Tools: algorithms, scripts, programming language, software and packages available__<br>Coordination: Dr. Fabio Porto |
 | 12:00hs - 13:30hs | Lunch |
-| 13:30hs - 15:00hs | Roundtable 2 | __Graph theory in socio-ecological systems__<br>Coordination: Dr. Tadeu Gomes |
+| 13:30hs - 15:00hs | Roundtable 2 | __Computational techniques applied to socio-ecological systems__<br>Coordination: Dr. Tadeu Gomes |
 | 15:00hs - 15:30hs | Coffee Break  |  |
 | 15:30hs - 17:00hs | Working Groups | 
 
