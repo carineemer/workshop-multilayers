@@ -1,4 +1,4 @@
-![image](https://cloud.jbrj.gov.br/s/yPNmQoH7ce2FTb3)
+![image](https://cloud.jbrj.gov.br/apps/files/?dir=/redesCarine/eventoRedes2023&openfile=15115462)
 
 An advanced, working-focused workshop will be held at the Rio de Janeiro Botanical Garden aiming to advance the field of Socio-Ecological Systems through the lens of network theory and computational techniques.
 
