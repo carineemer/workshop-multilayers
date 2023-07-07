@@ -1,6 +1,6 @@
 # Preliminary Program
 
-## __April 25th__
+## __October 24th__
 
 ### Welcome!
 
@@ -8,19 +8,19 @@ Arriving day!
 
 ---
 
-## __April 26th__
+## __October 25th__
 
 ### Theory
 
 | Time | Event | Details |
 |---|---|---|
-| 8:00hs - 10:00hs | Symposium 1 | __Theoretical and conceptual bases, current models__<br>Dr. Shai Pilosof, Dra. Sonia Kéfi, Dr. Mikko Kivela |
+| 8:00hs - 10:00hs | Symposium 1 | __Sustainable transitions - challenges and opportunities_|
 | 10:00hs - 10:30hs | Coffee Break |  |
-| 10:30hs - 12:00hs | Symposium 2  | __Multidisciplinarity: perspectives from different areas of knowledge__<br>Dr. Luciano Costa, Dr. Ginestra Bianconi, Dr. Manlio de Domenico |
+| 10:30hs - 12:00hs | Symposium 2  | __Multidisciplinarity: perspectives from different areas of knowledge__||
 | 12:00hs - 13:30hs | Lunch |
-| 13:30hs - 15:00hs | Roundtable 1 | __Multilayer networks and the study os species interactions__<br>Coordination: Dr. Sérgio Timóteo<br>Speakers: Dra. Anna Traveset, Prof. Jane Memmott, Dra. Sonia Kéfi  |
+| 13:30hs - 15:00hs | Roundtable 1 | __Study cases
 | 15:00hs - 15:30hs | Coffee Break  |  |
-| 15:30hs - 17:00hs | Working Group 1 | Meetings and activities of the participants responsible for the preparation and writing of the manuscript on the state of the art and perspectives on multilayer networks, to be submitted to _Ecology_ |
+| 15:30hs - 17:00hs | Roundtable 2 | Data issues
 
 ---
 
