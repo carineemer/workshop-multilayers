@@ -18,7 +18,7 @@ Arriving day!
 | 10:00hs - 10:30hs | Coffee Break |  |
 | 10:30hs - 12:00hs | Symposium 2  | Multidisciplinarity: perspectives from different areas of knowledge||
 | 12:00hs - 13:30hs | Lunch |
-| 13:30hs - 15:00hs | Roundtable 1 | Study cases
+| 13:30hs - 15:00hs | Roundtable 1 | Study cases <br>Coordination: Dr. Eduardo Dalcin (Arapaima fishing management, Açaí extractivism, MarinLit - marine database)
 | 15:00hs - 15:30hs | Coffee Break  | 
 | 15:30hs - 17:00hs | Roundtable 2 | Data issues
 
