@@ -14,12 +14,12 @@ Arriving day!
 
 | Time | Event | Details |
 |---|---|---|
-| 8:00hs - 10:00hs | Symposium 1 | __Sustainable transitions - challenges and opportunities_|
+| 8:00hs - 10:00hs | Symposium 1 | Sustainable transitions - challenges and opportunities|
 | 10:00hs - 10:30hs | Coffee Break |  |
-| 10:30hs - 12:00hs | Symposium 2  | __Multidisciplinarity: perspectives from different areas of knowledge__||
+| 10:30hs - 12:00hs | Symposium 2  | Multidisciplinarity: perspectives from different areas of knowledge||
 | 12:00hs - 13:30hs | Lunch |
-| 13:30hs - 15:00hs | Roundtable 1 | __Study cases
-| 15:00hs - 15:30hs | Coffee Break  |  |
+| 13:30hs - 15:00hs | Roundtable 1 | Study cases
+| 15:00hs - 15:30hs | Coffee Break  | 
 | 15:30hs - 17:00hs | Roundtable 2 | Data issues
 
 ---
